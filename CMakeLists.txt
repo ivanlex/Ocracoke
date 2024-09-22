@@ -14,7 +14,8 @@ set(SOURCES Ocracoke.cpp
 set(INCLUDES ${REFOLDER}/cpp-httplib/include
         ${REFOLDER}/glfw/include
         ${REFOLDER}/rapidJson/include
-        ${REFOLDER}/glad/include)
+        ${REFOLDER}/glad/include
+        ${REFOLDER}/glm/include)
 
 # Libraries from 3rd library
 set(LINK_LIBRARIES ${REFOLDER}/glfw/lib_vc2022/lib/glfw3.lib)
