@@ -1,2 +1,2 @@
 # Ocracoke
-Born on 2024.9.21
+OpenGL 学习笔记
